@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-jwt-auth",
+  "version": "1.0.0",
+  "description": "Nodejs-JWT-Authentication-with-MySQL-Sequelize-ORM",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "JWT",
+    "Sequelize",
+    "MySQL",
+    "Authentication"
+  ],
+  "author": "grokonez.com",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.16.3",
+    "express-validator": "^7.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^1.6.1",
+    "pg": "^8.13.0",
+    "sequelize": "^4.44.3"
+  }
+}

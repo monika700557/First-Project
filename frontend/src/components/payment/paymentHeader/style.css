@@ -1,0 +1,17 @@
+.custom-datepicker {
+    font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+    font-size: 0.8rem;
+    background-color: #fff;
+    color: #000;
+   border: 1px solid #aeaeae;
+    border-radius: 0.3rem;
+    display: flex;
+    position: fixed;
+    line-height: initial;
+    justify-content: flex-start;
+    align-items: flex-start;
+vertical-align: top;
+    top: 0;
+    margin-top: -308px;
+    margin-left: 31rem;
+  }
